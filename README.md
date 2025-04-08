@@ -23,7 +23,7 @@
      </div>
 </center>
 
-<div style="border-bottom: 2px solid #114BA3;margin: 10px 0;"/>
+<div style="border-bottom: 2px solid #114BA3;margin: 10px 0;"></div>
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
